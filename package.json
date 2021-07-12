@@ -1,0 +1,16 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "Web-scrapping tool  for covid-19 data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webscrapper",
+    "covid",
+    "data"
+  ],
+  "author": "Amos Cheruiyot",
+  "license": "ISC"
+}
